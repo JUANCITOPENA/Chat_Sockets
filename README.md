@@ -8,7 +8,7 @@ Chat_Sockets (HTML, CSS, JS, NodeJS, Express, Socket.io)
 ### npm start
 
 ## CAPTURA DE PANTALLA # 1
-![](public/img/chat socket.png)
+![](public/img/'chat socket.png')
 
 ## CAPTURA DE PANTALLA # 2
 ![](public/img/chat.png)
